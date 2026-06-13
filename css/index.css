@@ -1,0 +1,67 @@
+body {
+    
+        
+        
+       
+        background-size: auto;
+        background-position: center;
+        background-attachment: fixed;
+        
+         background-color: #ffffff;
+         font-family: Georgia, 'Times New Roman', Times, serif;
+         overflow: hidden;
+         
+        
+         
+    
+    
+    }
+
+#header{
+        font-size: 30px;
+        text-align: center;
+}
+   
+
+.container{
+
+        word-spacing: .5em;
+        margin-top: auto;
+        margin-bottom: 15px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 30px;
+        text-align: center;
+       
+        
+        
+
+        
+}
+
+#footer{
+
+        font-size: 20px;
+        text-align: center;
+}
+
+em{
+        font-weight: bold;
+        color:rgb(241, 7, 241); 
+}
+    
+a{
+
+        color: rgb(241, 7, 241);
+}
+
+a:hover{
+        color: pink;
+}
+
+img{
+
+    display: block;        /* Converts inline to block level */
+  margin-left: auto;     /* Distributes remaining space equally */
+  margin-right: auto;    /* Centers the element horizontally */
+}

@@ -1,0 +1,56 @@
+#container{
+    
+    
+    
+    width: 50%;
+    text-align: center;
+    border-radius: 20px;
+    background-color: pink;
+    margin: 50px auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+    
+    
+}
+
+#header {
+    text-align: center;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 100px;
+    margin-bottom: auto;
+    font-size: 80px;
+
+
+}
+
+Body{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+span{
+
+    font-size: 40px;
+}
+
+#footer
+{
+    margin-top: 200px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+a{
+
+        color: rgb(241, 7, 241);
+}
+
+a:hover{
+        color: pink;
+}

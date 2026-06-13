@@ -1,0 +1,50 @@
+
+Body{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+
+#header{
+    width: 50%;
+    text-align: center;
+    overflow: hidden;
+    font-size: 40px;
+    margin: 20px auto;
+    background-color: pink;
+    border-radius: 50%;
+    
+}
+
+#about{
+    width: 50%;
+    text-align: center;
+    margin: 25px auto;
+
+
+
+}
+
+
+
+#footer
+{
+    
+    
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+a{
+
+        color: rgb(241, 7, 241);
+}
+
+a:hover{
+        color: pink;
+}
+
+
+
