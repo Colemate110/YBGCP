@@ -65,3 +65,28 @@ img{
   margin-left: auto;     /* Distributes remaining space equally */
   margin-right: auto;    /* Centers the element horizontally */
 }
+
+@media (max-width: 768px) {
+
+    body {
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .hero-text {
+        font-size: 1.5rem;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+}
