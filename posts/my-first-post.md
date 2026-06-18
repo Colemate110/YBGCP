@@ -1,6 +1,6 @@
 ---
 title: My First Post
-date: 2026-01-14
+date: 2026-06-14
 tags: post
 layout: post.html
 ---
