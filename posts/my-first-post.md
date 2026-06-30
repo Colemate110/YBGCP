@@ -3,6 +3,7 @@ title: My First Post
 date: 2026-06-14
 tags: post
 layout: post.html
+order: 2
 ---
 
 Welcome to my new website and my first blog post. If you're reading this, you're probably a friend or someone in my circle. I don't

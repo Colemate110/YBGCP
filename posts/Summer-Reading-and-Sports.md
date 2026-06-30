@@ -1,8 +1,9 @@
 ---
 title: Summer Reading and Sports - 6/30/26
-date: 2026-06-31
+date: 2026-06-30
 tags: post
 layout: post.html
+order: 1
 ---
 
 This Summer, I’ve made it some sort of mission to read more books. I don’t really have a motive as to why. Maybe it was the allure of embracing some lost inner adolescent self, but I’m not really sure.
