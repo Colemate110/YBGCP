@@ -24,10 +24,13 @@ body{
     padding-right: 20px;
     min-height: 575px;
     line-height: 1.8;
+    overflow-x: hidden;
     
 
 
-
+* {
+    box-sizing: border-box;
+}
 }
 
 #footer
@@ -74,4 +77,17 @@ a:hover{
   font-size: 20px;
   margin-bottom: 10px;
   text-align: center;
+}
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+#entries img {
+    max-width: 100% !important;
+    height: auto !important;
+    display: block !important;
+    margin: 20px auto !important;
 }
