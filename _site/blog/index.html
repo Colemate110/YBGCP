@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+     <script>
+if (localStorage.getItem("theme") === "dark") {
+    document.documentElement.classList.add("dark-mode");
+}
+</script>
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-10DJCVYJB4"></script>
 <script>
@@ -15,6 +20,7 @@
     <title>Blog</title>
     <link rel="stylesheet" href="/css/blog.css">
     <link rel="icon" type="image/jpg" href="/pictures/mace wind.jpg">
+    <link rel="stylesheet" href="/css/darkmode.css">
 </head>
 <body>
     <Header id="header">
@@ -23,6 +29,10 @@
     <div id="entries">
         <ul>
    
+  
+    <li>
+      <a href="/posts/Update/">update - 7/15/2026</a>
+    </li>
   
     <li>
       <a href="/posts/Summer-Reading-and-Sports/">Summer Reading and Sports - 6/30/26</a>
@@ -38,6 +48,7 @@
      <footer id="footer">
              <a href="/">Back to Home</a>
         </footer>
+        <script src="/darkmode.js"></script>
     
 </body>
 </html>

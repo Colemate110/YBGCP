@@ -9,7 +9,7 @@ body {
         
          background-color: #ffffff;
          font-family: Georgia, 'Times New Roman', Times, serif;
-         overflow: hidden;
+         overflow-x: hidden;
          
         
          
@@ -90,3 +90,46 @@ img{
     }
 
 }
+
+#theme-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+
+    padding: 10px 16px;
+
+    border-radius: 25px;
+    border: none;
+
+    background: pink;
+    color: black;
+
+    cursor: pointer;
+    font-size: 16px;
+
+    z-index: 1000;
+}
+
+body {
+    background-color: white;
+    color: black;
+}
+
+body.dark-mode {
+    background-color: #181818;
+    color: white;
+}
+
+body.dark-mode #entries {
+    background-color: #333333;
+    color: white;
+}
+
+body.dark-mode .post-date {
+    color: white;
+}
+
+body.dark-mode #footer {
+    color: white;
+}
+

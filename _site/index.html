@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+       <script>
+if (localStorage.getItem("theme") === "dark") {
+    document.documentElement.classList.add("dark-mode");
+}
+</script>
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-10DJCVYJB4"></script>
 <script>
@@ -14,10 +19,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YBG CP</title>
     <meta name="theme-color" content="#754d2c">
+    
     <link rel="stylesheet" href="/css/index.css">
     <link rel="icon" type="image/jpg" href="/pictures/mace wind.jpg">
+    <link rel="stylesheet" href="/css/darkmode.css">
 </head>
 <body>
+    <button id="theme-toggle" aria-label="Toggle dark mode">
+    🌙
+</button>
     <header id="header"><h1><strong>YBG CP</strong></h1></header>
     <main>
         <div class="container">
@@ -37,5 +47,8 @@
         <p>3/10 use of free will</p>
     
     </footer>
+
+ <script src="/darkmode.js"></script>
+
 </body>
 </html>
