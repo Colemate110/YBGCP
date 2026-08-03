@@ -1,5 +1,5 @@
 ---
-title: White Suburbia Retrospective
+title: White Suburbia Retrospective 8/3/2026
 date: 2026-08-03
 tags: post
 layout: post.html
