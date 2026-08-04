@@ -3,7 +3,7 @@ title: update - 7/15/2026
 date: 2026-07-15
 tags: post
 layout: post.html
-order: .9 
+order: .99 
 ---
 
 I added a dark mode and comment system. Hopefully, those work fine and aren't buggy. 
