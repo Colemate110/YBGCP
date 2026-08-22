@@ -17,6 +17,6 @@ After today, I think I can officially say that my 3-year running hiatus is over.
 
 All my life, I’ve been a quitter. I don’t want to quit anymore.
 
-<p align="center">“I came, I saw, I conquered” -Julius Caesar</p>
+<p align="center">“I came, I saw, I conquered.” -Julius Caesar</p>
 
 
