@@ -15,7 +15,7 @@ As for the actual show, though, I like all the characters, except for Dee becaus
 
 In the end, the show has really filled the void that I had after finishing *Seinfeld*. Though I’m not sure what this says about me as a person. My 2 favorite shows center around selfish, narcissistic people who make everyone else’s lives around them worse. Does that make me a bad person? Is that our human nature or just mine? Maybe those articles that told me to stop watching TV while I eat were right. Then again, I probably wouldn’t have discovered one of my favorite shows if I’d listened. 
 
-## My Favorite Sitcoms
+## My Favorite Shows
 
 The rest of this post will serve as a ranking of all my favorite TV shows ever. Some of these shows are interchangeable.
 
